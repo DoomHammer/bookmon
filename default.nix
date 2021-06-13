@@ -1,7 +1,7 @@
 { pkgs ? import (
   builtins.fetchTarball {
     url = "https://github.com/nixos/nixpkgs/archive/release-20.09.tar.gz";
-    sha256 = "0p7df7yzi35kblxr5ks0rxxp9cfh269g88xpj60sdhdjvfnn6cp7";
+    sha256 = "12azgdf3zihlxqiw33dx0w9afhgzka8pqha4irp7sn0jgka0zyxs";
   }
 ) {} }:
 
